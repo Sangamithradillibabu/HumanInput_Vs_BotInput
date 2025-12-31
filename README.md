@@ -28,7 +28,7 @@ Kurtosis
 Entropy (distribution randomness)
 Rhythm (average timing variation)
 
-Dataset
+Dataset:
 
 The dataset is synthetically generated to simulate realistic scenarios:
 
@@ -46,12 +46,10 @@ Dataset Size:
 600 human samples
 1200 bot samples
 
-Model Used
+Model Used:
 
 Algorithm: Random Forest Classifier
-
 Trees: 300
-
 Max Depth: 12
 
 Why Random Forest?
